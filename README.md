@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=45sarthak&label=Profile%20views&color=0e75b6&style=flat" alt="45sarthak" /> </p>
 
-- 🌱 I’m currently learning **DSA Using C++**
+- 🌱 Java Developer
 
 - 💬 Ask me about **Web Devlopment,DSA,LogicsBuildings & Programming languages**
 
